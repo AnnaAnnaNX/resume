@@ -158,12 +158,10 @@
         <p class="text-left subheading font-weight-regular">
         <v-img
           :src="image1_1"
-          aspect-ratio="2"
           class="mb-5"
         ></v-img>
         <v-img
           :src="image1_2"
-          aspect-ratio="2"
           class="mb-5"
         ></v-img>
 
@@ -188,7 +186,6 @@
         </p>
         <v-img
           :src="image2_1"
-          aspect-ratio="2"
           class="mb-5"
         ></v-img>
       </v-col>    
